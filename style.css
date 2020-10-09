@@ -1,0 +1,3 @@
+label, input:not([type=radio]):not([type=checkbox]){
+    display: block;
+}
